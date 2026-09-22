@@ -1,10 +1,10 @@
-# Hi, I'm Serge 👋
+# Hi, I'm Serge
 
 **Software Engineer** based in **Accra, Ghana** — I turn business needs into reliable web and mobile products.
 
-- 🌍 Building websites, platforms and mobile apps for businesses across West Africa
-- 🧱 Full-stack: from UI to API, database and deployment
-- 💼 Available for freelance and remote work
+- Building websites, platforms and mobile apps for businesses across West Africa
+- Full-stack: from UI to API, database and deployment
+- Available for freelance and remote work
 
 ## Stack
 
