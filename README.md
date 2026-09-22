@@ -16,4 +16,4 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-guehipoegnansergej.com-F46C38?style=flat-square)](https://www.guehipoegnansergej.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Serge%20Junior%20GUEHI-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/guehi-poegnan-serge-junior-1434a21b8/)
-[![Email](https://img.shields.io/badge/Email-Contact%20me-222?style=flat-square&logo=gmail)](mailto:guehipoegnansergej@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-222?style=flat-square&logo=gmail)](mailto:software-ingenieer@guehipoegnansergej.com)
